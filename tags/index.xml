@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shopping your way</title>
-    <link>https://demo.uicard.io/hugo-sodium/tags/</link>
+    <link>https://rainingsheeps.github.io/sodium/tags/</link>
     <description>Recent content in Tags on Shopping your way</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
     
-	<atom:link href="https://demo.uicard.io/hugo-sodium/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rainingsheeps.github.io/sodium/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
